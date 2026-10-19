@@ -1,0 +1,5 @@
+SMS OTPs Are Convenient but Weak
+SMS-based OTPs are easy to use but vulnerable to SIM-swapping, interception, and phishing, so they are the least secure common option.
+
+6. Authenticator Apps Are Stronger
+App-based OTPs (TOTP) generate codes locally on your device and are not sent over networks, making them much harder to intercept than SMS.
