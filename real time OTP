@@ -1,0 +1,5 @@
+OTPs Are Not Phishing-Proof
+Because OTPs can be relayed by an attacker in real time, security experts recommend phishing-resistant methods like passkeys or hardware security keys for high-value accounts.
+
+10. Best Practices for OTP Use
+Enable OTP-based two-factor authentication everywhere it is offered, prefer authenticator apps over SMS, keep your recovery codes offline, and never enter an OTP on a page you reached through an unsolicited link.
