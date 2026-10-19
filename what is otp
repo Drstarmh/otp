@@ -1,0 +1,5 @@
+What OTP Means
+OTP stands for One-Time Password, a single-use code generated to authenticate a user for one login session or transaction.
+
+2. Why OTPs Exist
+OTPs add a second layer of security beyond a password, so that stealing a password alone is not enough to access an account.
