@@ -1,0 +1,5 @@
+How OTPs Are Delivered
+OTPs usually arrive via SMS, email, authenticator apps, or hardware tokens, and the delivery method affects how secure they are.
+
+4. OTPs Are Short-Lived
+A typical OTP expires within 30 to 300 seconds, which limits the window an attacker has to misuse a stolen code.
